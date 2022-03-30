@@ -1,0 +1,18 @@
+#Note: Mention Each package in individual line
+#These packages will get added into rootfs menu entry
+
+CONFIG_gpio-demo
+CONFIG_peekpoke
+CONFIG_packagegroup-petalinux-som
+CONFIG_packagegroup-core-full-cmdline
+CONFIG_packagegroup-petalinux-jupyter
+CONFIG_packagegroup-kv260-smartcam
+CONFIG_packagegroup-petalinux-tpm
+CONFIG_accelize-repo
+CONFIG_archconfig
+CONFIG_fru-print
+CONFIG_image-update
+CONFIG_kv260-dp
+CONFIG_xmutil
+CONFIG_kv260-dpu-benchmark
+
